@@ -1,7 +1,7 @@
 # 🛡️ PhalanxSENTINEL
 ### AI-Powered Cybersecurity for Robotic Warehouse Operations
 
-#### **Developed by TeamPhalanx:** Robert Thompson, Njeh Ababio, Olis Bahari, Nichelle Graf
+#### **Developed by Phalanx AI:** Robert Thompson, Njeh Ababio, Olis Bahari, Nichelle Graf
 
 #### Final Project  |  ITAI 2376 - Deep Learning  |  Fall 2026
 
@@ -199,7 +199,7 @@ Additional validation, system integration, and security testing would be require
 
 ## Development Team
 
-**TeamPhalanx**  
+**Phalanx AI**  
 Houston City College  
 ITAI 2376 — Deep Learning  
 Fall 2026
