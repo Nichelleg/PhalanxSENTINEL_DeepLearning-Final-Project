@@ -1,0 +1,29 @@
+# ============================================================
+# PhalanxSENTINEL
+# Phalanx AI | ITAI 2376 - Deep Learning | Fall 2026
+#
+# Dynamic Attack Simulation and Evaluation Module
+# Python dependencies
+# ============================================================
+
+# Numerical computing and data processing
+numpy
+pandas
+
+# Machine learning and model evaluation
+scikit-learn
+xgboost
+joblib
+
+# Visualization
+matplotlib
+
+# Interactive Jupyter/Colab interface
+ipywidgets
+ipython
+
+# Parquet dataset support
+pyarrow
+
+# Dependency used by the existing TerraGuard training pipeline
+optuna
