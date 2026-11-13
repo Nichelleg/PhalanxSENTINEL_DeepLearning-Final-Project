@@ -153,6 +153,18 @@ The evaluation notebook uses existing detection models and feature-engineering p
 
 These source components are maintained independently from this Deep Learning final project.
 
+### Installing Dependencies
+
+The Python dependencies required by the Dynamic Attack Simulation
+and Evaluation Module are listed in `requirements.txt`.
+
+To install them, run:
+
+    pip install -r requirements.txt
+
+The notebook is designed for Google Colab and also retrieves
+the existing TerraGuard source code required for model integration.
+
 ### Running the Simulation Notebook
 
 1. Open the notebook in Google Colab.
